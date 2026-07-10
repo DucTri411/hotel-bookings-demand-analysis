@@ -108,6 +108,8 @@ Analyzed cancellation behavior by:
 - Booking Trend
 - Hotel Comparison
 
+![Dashboard](https://github.com/user-attachments/assets/7ff59a0d-33c9-4d9d-8f57-801b7c517efc)
+
 ### Cancellation Risk Dashboard
 
 - Lead Time Analysis
@@ -115,6 +117,8 @@ Analyzed cancellation behavior by:
 - Customer Type
 - Distribution Channel
 - Previous Cancellation History
+
+![Dasboard](https://github.com/user-attachments/assets/374221ed-640a-446d-994f-816e48b2952e)
 
 Interactive filtering is supported using Excel Slicers.
 
