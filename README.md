@@ -108,6 +108,12 @@ Analyzed cancellation behavior by:
 - Booking Trend
 - Hotel Comparison
 
+Provides a real-time snapshot of overall cancellation performance:
+
+- **KPI cards** - 119,209 total bookings, 44,199 cancellations, a 37.08% overall cancellation rate, and an average lead time of 104 days.
+- **Booking Trend chart** - cancellation rate fluctuates seasonally rather than trending steadily up or down, with noticeably higher cancellation months around mid-year (e.g. July) and lower cancellation in November, suggesting a seasonal booking-behavior pattern worth factoring into staffing/inventory planning.
+- **Hotel Comparison chart** - City Hotel consistently cancels at a higher rate than Resort Hotel (41.8% vs 27.8%), indicating the two properties may need different retention strategies.
+
 ![Dashboard](https://github.com/user-attachments/assets/7ff59a0d-33c9-4d9d-8f57-801b7c517efc)
 
 ### Cancellation Risk Dashboard
@@ -117,6 +123,12 @@ Analyzed cancellation behavior by:
 - Customer Type
 - Distribution Channel
 - Previous Cancellation History
+
+Breaks down cancellation risk across the dimensions that matter most for targeting interventions:
+
+- **Lead Time Analysis** - risk increases steadily with booking window, from 18.6% (0–30 days) to 67.7% (>365 days).
+- **Market Segment** - Groups (61.1%) and Online TA (36.8%) are the highest-risk channels, while Complementary (12.2%) and Direct (15.4%) are the safest.
+- **Customer Type & Cancellation History** - repeat cancelers are ~2.7x more likely to cancel again (91.7% vs 33.9%), making this the single strongest individual risk signal in the dataset.
 
 ![Dasboard](https://github.com/user-attachments/assets/374221ed-640a-446d-994f-816e48b2952e)
 
